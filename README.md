@@ -34,7 +34,8 @@ Requests
 Pandas
 
 # 📂 Project Structure
-python-automation
+
+# python-automation
 │
 ├── main.py
 ├── scraper.py
@@ -105,10 +106,11 @@ When the scraper detects a price drop, it automatically sends an alert.
 
 The database stores information like:
 
-Product	Price	Rating	Link
-Laptop	₹55,999	4.3 ⭐	Amazon Link
-Headphones	₹2,499	4.1 ⭐	Amazon Link
-💡 Future Improvements
+Product	     Price	     Rating	        Link
+Laptop	    ₹55,999	     4.3 ⭐	     Amazon Link
+Headphones	 ₹2,499	     4.1 ⭐ 	   Amazon Link
+
+# 💡 Future Improvements
 
 Price history tracking
 
