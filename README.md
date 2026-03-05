@@ -1,11 +1,14 @@
-**🚀 Python Automation Scraper**
+# **🚀 Python Automation Scraper**
+
+
+
 Smart Amazon Product Scraper & Price Tracker using Python, Selenium, SQLite and Streamlit
 
 Welcome to Python Automation Scraper, an automated system that scrapes product information from Amazon, stores it in a database, tracks prices, and visualizes the data in an interactive dashboard.
 
 This project demonstrates real-world automation, web scraping, database management, and data visualization using Python.
 
-✨ Features
+# ✨ Features
 
 ✅ Automated Amazon product scraping
 ✅ Extracts Product Name, Price, Rating, and Link
@@ -16,7 +19,7 @@ This project demonstrates real-world automation, web scraping, database manageme
 ✅ Modular and scalable code structure
 ✅ Easy to extend for price tracking over time
 
-🧠 Technologies Used
+# 🧠 Technologies Used
 
 Python
 
@@ -30,7 +33,7 @@ Requests
 
 Pandas
 
-📂 Project Structure
+# 📂 Project Structure
 python-automation
 │
 ├── main.py
@@ -49,7 +52,7 @@ python-automation
 └── README.md
 ⚙️ Installation
 
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/priyansusikdar2/python-automation.git
 
@@ -57,7 +60,7 @@ Go to the project folder:
 
 cd python-automation
 
-Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 ▶️ Run the Scraper
@@ -71,7 +74,7 @@ Collect product information
 
 Store the data in SQLite database
 
-📊 Run the Dashboard
+# 📊 Run the Dashboard
 streamlit run dashboard.py
 
 Open in browser:
@@ -98,7 +101,7 @@ RECEIVER = "receiver_email@gmail.com"
 
 When the scraper detects a price drop, it automatically sends an alert.
 
-📸 Example Output
+# 📸 Example Output
 
 The database stores information like:
 
@@ -119,7 +122,7 @@ Machine Learning price prediction
 
 Deployment on cloud
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Priyansu Sikdar
 
@@ -136,7 +139,7 @@ Machine Learning
 GitHub:
 https://github.com/priyansusikdar2
 
-⭐ Support
+# ⭐ Support
 
 If you like this project:
 
@@ -144,7 +147,7 @@ If you like this project:
 🍴 Fork it
 📢 Share it with others
 
-🚀 Why This Project?
+# 🚀 Why This Project?
 
 This project demonstrates real-world automation skills useful in:
 
