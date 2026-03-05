@@ -1,4 +1,4 @@
-##🚀 Python Automation Scraper ##
+**🚀 Python Automation Scraper**
 Smart Amazon Product Scraper & Price Tracker using Python, Selenium, SQLite and Streamlit
 
 Welcome to Python Automation Scraper, an automated system that scrapes product information from Amazon, stores it in a database, tracks prices, and visualizes the data in an interactive dashboard.
